@@ -1,0 +1,14 @@
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Banco_Treino\bin\Debug\net8.0\Banco_Treino.exe
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Banco_Treino\bin\Debug\net8.0\Banco_Treino.deps.json
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Banco_Treino\bin\Debug\net8.0\Banco_Treino.runtimeconfig.json
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Banco_Treino\bin\Debug\net8.0\Banco_Treino.dll
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Banco_Treino\bin\Debug\net8.0\Banco_Treino.pdb
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Banco_Treino\obj\Debug\net8.0\Banco_Treino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Banco_Treino\obj\Debug\net8.0\Banco_Treino.AssemblyInfoInputs.cache
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Banco_Treino\obj\Debug\net8.0\Banco_Treino.AssemblyInfo.cs
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Banco_Treino\obj\Debug\net8.0\Banco_Treino.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Banco_Treino\obj\Debug\net8.0\Banco_Treino.dll
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Banco_Treino\obj\Debug\net8.0\refint\Banco_Treino.dll
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Banco_Treino\obj\Debug\net8.0\Banco_Treino.pdb
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Banco_Treino\obj\Debug\net8.0\Banco_Treino.genruntimeconfig.cache
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Banco_Treino\obj\Debug\net8.0\ref\Banco_Treino.dll

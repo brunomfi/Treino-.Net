@@ -1,0 +1,2 @@
+Para criar no console abra a pasta no terminal do Windowns no PowerShell, digite
+dotnet new console -n "NOME DA PASTA"

@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Suporte\\Desktop\\Bruno Treino\\Dotnet\\Aula22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91B1F733-0C5C-47D8-AE1A-4213AA0392D5}|Aula22.csproj|c:\\users\\suporte\\desktop\\bruno treino\\dotnet\\aula22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B1F733-0C5C-47D8-AE1A-4213AA0392D5}|Aula22.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B1F733-0C5C-47D8-AE1A-4213AA0392D5}|Aula22.csproj|c:\\users\\suporte\\desktop\\bruno treino\\dotnet\\aula22\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B1F733-0C5C-47D8-AE1A-4213AA0392D5}|Aula22.csproj|solutionrelative:computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Computador.cs",
+              "DocumentMoniker": "C:\\Users\\Suporte\\Desktop\\Bruno Treino\\Dotnet\\Aula22\\Computador.cs",
+              "RelativeDocumentMoniker": "Computador.cs",
+              "ToolTip": "C:\\Users\\Suporte\\Desktop\\Bruno Treino\\Dotnet\\Aula22\\Computador.cs",
+              "RelativeToolTip": "Computador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:05:49.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Suporte\\Desktop\\Bruno Treino\\Dotnet\\Aula22\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Suporte\\Desktop\\Bruno Treino\\Dotnet\\Aula22\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:04:25.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

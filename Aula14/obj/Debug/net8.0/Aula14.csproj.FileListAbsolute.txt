@@ -1,0 +1,14 @@
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Aula14\bin\Debug\net8.0\Aula14.exe
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Aula14\bin\Debug\net8.0\Aula14.deps.json
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Aula14\bin\Debug\net8.0\Aula14.runtimeconfig.json
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Aula14\bin\Debug\net8.0\Aula14.dll
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Aula14\bin\Debug\net8.0\Aula14.pdb
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Aula14\obj\Debug\net8.0\Aula14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Aula14\obj\Debug\net8.0\Aula14.AssemblyInfoInputs.cache
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Aula14\obj\Debug\net8.0\Aula14.AssemblyInfo.cs
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Aula14\obj\Debug\net8.0\Aula14.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Aula14\obj\Debug\net8.0\Aula14.dll
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Aula14\obj\Debug\net8.0\refint\Aula14.dll
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Aula14\obj\Debug\net8.0\Aula14.pdb
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Aula14\obj\Debug\net8.0\Aula14.genruntimeconfig.cache
+C:\Users\Suporte\Desktop\Bruno Treino\Dotnet\Aula14\obj\Debug\net8.0\ref\Aula14.dll

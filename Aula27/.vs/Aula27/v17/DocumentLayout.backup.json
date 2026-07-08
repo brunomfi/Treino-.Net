@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Suporte\\Desktop\\Bruno Treino\\Dotnet\\Aula27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F153C3C-1C7B-44FB-962A-132B67338102}|Aula27.csproj|c:\\users\\suporte\\desktop\\bruno treino\\dotnet\\aula27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F153C3C-1C7B-44FB-962A-132B67338102}|Aula27.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F153C3C-1C7B-44FB-962A-132B67338102}|Aula27.csproj|c:\\users\\suporte\\desktop\\bruno treino\\dotnet\\aula27\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F153C3C-1C7B-44FB-962A-132B67338102}|Aula27.csproj|solutionrelative:cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cake.cs",
+              "DocumentMoniker": "C:\\Users\\Suporte\\Desktop\\Bruno Treino\\Dotnet\\Aula27\\Cake.cs",
+              "RelativeDocumentMoniker": "Cake.cs",
+              "ToolTip": "C:\\Users\\Suporte\\Desktop\\Bruno Treino\\Dotnet\\Aula27\\Cake.cs*",
+              "RelativeToolTip": "Cake.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T12:37:14.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Suporte\\Desktop\\Bruno Treino\\Dotnet\\Aula27\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Suporte\\Desktop\\Bruno Treino\\Dotnet\\Aula27\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T12:32:07.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
